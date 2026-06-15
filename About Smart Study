@@ -1,0 +1,63 @@
+# 🎓 Smart Study Management System
+
+## 📖 Overview
+
+Smart Study Management System is a web-based e-learning platform developed using PHP and MySQL. The system helps students access study materials, take online quizzes, track academic progress, and improve their learning experience through a simple and user-friendly interface.
+
+## ✨ Features
+
+* Student Registration & Login
+* Secure Authentication System
+* Study Material Management
+* Online Quiz System
+* Progress Tracking
+* User-Friendly Dashboard
+* Responsive Web Design
+* Database-Driven Application
+
+## 🛠 Technologies Used
+
+* PHP
+* MySQL
+* HTML5
+* CSS3
+* JavaScript
+* XAMPP
+
+## 🗄 Database
+
+Database Name: `smartstudy`
+
+Import the `smartstudy.sql` file into phpMyAdmin before running the project.
+
+## 🚀 Installation Guide
+
+1. Install XAMPP.
+2. Start Apache and MySQL.
+3. Copy the project folder to `htdocs`.
+4. Import `smartstudy.sql` into phpMyAdmin.
+5. Open your browser and run:
+   http://localhost/smartstudy
+
+## 🎯 Project Objectives
+
+* Simplify online learning.
+* Provide easy access to educational resources.
+* Improve student engagement and academic performance.
+* Support digital education through a web-based platform.
+
+## 👨‍💻 Developer
+
+Sanjay
+
+Diploma in Computer Science Engineering
+
+Aspiring Software Developer
+
+## 📌 Future Enhancements
+
+* Video Learning Modules
+* AI-Based Learning Recommendations
+* Mobile Application Support
+* Attendance Management System
+* Advanced Analytics Dashboard
